@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19699" started-at="2021-05-27T08:55:40Z" finished-at="2021-05-27T08:56:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19699" started-at="2021-05-27T08:55:40Z" finished-at="2021-05-27T08:56:00Z">
+      <class name="caltest.com.Caltest">
+        <test-method status="PASS" signature="Setup1()[pri:0, instance:caltest.com.Caltest@3bd40a57]" name="Setup1" is-config="true" duration-ms="8299" started-at="2021-05-27T08:55:40Z" finished-at="2021-05-27T08:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup1 -->
+        <test-method status="PASS" signature="add()[pri:1, instance:caltest.com.Caltest@3bd40a57]" name="add" duration-ms="3003" started-at="2021-05-27T08:55:48Z" finished-at="2021-05-27T08:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="sub()[pri:2, instance:caltest.com.Caltest@3bd40a57]" name="sub" duration-ms="3020" started-at="2021-05-27T08:55:51Z" finished-at="2021-05-27T08:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="multiplication()[pri:3, instance:caltest.com.Caltest@3bd40a57]" name="multiplication" duration-ms="2392" started-at="2021-05-27T08:55:54Z" finished-at="2021-05-27T08:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="div()[pri:4, instance:caltest.com.Caltest@3bd40a57]" name="div" duration-ms="2571" started-at="2021-05-27T08:55:57Z" finished-at="2021-05-27T08:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="close1()[pri:0, instance:caltest.com.Caltest@3bd40a57]" name="close1" is-config="true" duration-ms="355" started-at="2021-05-27T08:55:59Z" finished-at="2021-05-27T08:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close1 -->
+      </class> <!-- caltest.com.Caltest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
